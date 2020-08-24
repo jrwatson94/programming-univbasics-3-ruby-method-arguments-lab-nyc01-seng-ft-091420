@@ -6,7 +6,7 @@
 
 
 def introduction(name)
-   "Hi, my name is #{name}"
+  print "Hi, my name is #{name}"
 end
 
 
